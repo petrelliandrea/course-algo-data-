@@ -1,2 +1,2 @@
-# course-algo-data-
+# course-algo-data
 Repo algoritms and data
